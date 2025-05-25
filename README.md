@@ -1,8 +1,3 @@
-
-# ⚠️ Mac app (available soon)
-
-> ℹ️ For being notified on the launch of the mac generator app (generates a website from Bear), please fill this survey: https://tally.so/r/3xYXWJ
-
 ## Bear notes Hugo theme
 
 Online Zettelkasten/Digital garden [Hugo](https://gohugo.io/) theme. 
