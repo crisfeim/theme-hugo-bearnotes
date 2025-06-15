@@ -1,6 +1,8 @@
-## Bear notes Hugo theme
+## Bear Notes Hugo Theme
 
-Online Zettelkasten/Digital garden [Hugo](https://gohugo.io/) theme. 
+A Hugo theme designed for publishing Bear notes as an online Zettelkasten or digital garden.
+
+For a more streamlined publishing experience, check out [BearPublishCLI](https://github.com/crisfeim/cli-bearpublish).
 
 ### Sites using zettels
 
